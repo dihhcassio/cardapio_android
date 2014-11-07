@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.camaleao.activity;
+package com.camaleao.cardapio.Activity;
 
 import com.camaleao.cardapio.R;
 
