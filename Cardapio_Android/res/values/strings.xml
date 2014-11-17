@@ -7,4 +7,5 @@
     <string name="logar">Entrar</string>
     <string name="hint_user">Usuário</string>
     <string name="hint_pass">Senha</string>
+    <string name="bt_pesquisar">Pesquisar</string>
 </resources>
